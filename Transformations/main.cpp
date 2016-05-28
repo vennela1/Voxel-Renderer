@@ -1,7 +1,7 @@
 //Voxel renderer written by Bhargav.K 
 //Email : bhargav.gamit@gmail.com
 //Takes 2D image sequence as input and displays in a 3D space
-//Reference : OpenGL Programming Guide 8th edition
+//Reference : OpenGL Programming Guide 
 
 #include <iostream>
 #include <GL/glew.h>        // Header File For The GLEW Library
